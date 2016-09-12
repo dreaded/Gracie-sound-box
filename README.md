@@ -11,4 +11,8 @@ I also added leds to each button and changed the value of the pull up resistors 
   
 Usage
 -----
-There are nine buttons in total. The button at the top of the board denoted by a green led stop playback. All other buttons are assigned to different mp3 files that play when the button is pressed also causing the led to go out.
+There are nine buttons in total. The button at the top of the board denoted by a green led stops playback. All other buttons are assigned to different mp3 files that play when the button is pressed also causing the led to go out.
+
+Future of the project
+---------------------
+The prototype will be hard wired on a circuit board and placed inside a project box.
